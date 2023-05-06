@@ -9,7 +9,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@coconut-xr/koestlich": "^0.0.2",
+    "@coconut-xr/koestlich": "^0.0.11",
+    "@coconut-xr/kruemel": "^0.0.1",
     "@expo/webpack-config": "^0.17.2",
     "@react-three/drei": "^9.43.3",
     "@react-three/fiber": "^8.9.1",
